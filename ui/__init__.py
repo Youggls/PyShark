@@ -1,1 +1,1 @@
-__init__ = ['MainWindow.py']
+__init__ = ['MainWindow.py', 'DeviceChooser.py']
