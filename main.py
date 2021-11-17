@@ -1,8 +1,7 @@
 import sys
-from tools import utils
 from config import *
 from ui import MainWindow
-from PyQt5.QtWidgets import QWidget, QLabel, QApplication
+from PyQt5.QtWidgets import QApplication
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
